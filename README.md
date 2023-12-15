@@ -1,6 +1,6 @@
-# Video Game Sales Dashboard
+# Video Game Sales Dashboard 
 
-We employed the [Video Game Sales dataset](https://www.kaggle.com/datasets/gregorut/videogamesales) to construct a Tableau dashboard, illustrating significant findings regarding video game sales by year, regions, genre, platfort and publisher. These findings are accessible for analysis by both region, year and genre, enabled by the parameter and calculated field features.
+We employed the [Video Game Sales dataset](https://www.kaggle.com/datasets/gregorut/videogamesales) to construct a Tableau dashboard, illustrating significant findings regarding video game sales by year, regions, genre, platfort and publisher. These findings are accessible for analysis by region, year and genre, enabled by the parameter and calculated field features.
 
 ![videogame_sales_analysis_v1](https://github.com/lyndsayroach/Video-Game-Sales-Dashboard/assets/17256163/ea8ed08b-48f1-41f7-8b34-4d4fcbc30279)
 
